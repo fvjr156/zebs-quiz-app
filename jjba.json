@@ -1,0 +1,195 @@
+[
+    {
+      "question": "What is the name of Jotaro Kujo's Stand?",
+      "choice_1": "Magician's Red",
+      "choice_2": "Star Platinum",
+      "choice_3": "The World",
+      "choice_4": "Killer Queen",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which Stand has the ability to stop time?",
+      "choice_1": "King Crimson",
+      "choice_2": "Silver Chariot",
+      "choice_3": "The World",
+      "choice_4": "Star Platinum",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What phrase does Dio say before stopping time?",
+      "choice_1": "ZA WARUDO!",
+      "choice_2": "MUDA MUDA MUDA!",
+      "choice_3": "OH MY GOD!",
+      "choice_4": "YARE YARE DAZE!",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the name of Joseph Joestar's Stand?",
+      "choice_1": "Hierophant Green",
+      "choice_2": "Hermit Purple",
+      "choice_3": "The Fool",
+      "choice_4": "Tusk",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What Stand does Kakyoin use?",
+      "choice_1": "The Emperor",
+      "choice_2": "Silver Chariot",
+      "choice_3": "Hierophant Green",
+      "choice_4": "Magician's Red",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What Stand does Polnareff use?",
+      "choice_1": "The World",
+      "choice_2": "Silver Chariot",
+      "choice_3": "Anubis",
+      "choice_4": "Cream",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the name of Giorno Giovanna's Stand?",
+      "choice_1": "Gold Experience",
+      "choice_2": "Sticky Fingers",
+      "choice_3": "Crazy Diamond",
+      "choice_4": "Made in Heaven",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which Stand does Enrico Pucci use?",
+      "choice_1": "White Snake",
+      "choice_2": "Killer Queen",
+      "choice_3": "Stone Free",
+      "choice_4": "Metallica",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What Stand does Jolyne Cujoh use?",
+      "choice_1": "Diver Down",
+      "choice_2": "Stone Free",
+      "choice_3": "Kiss",
+      "choice_4": "Tusk",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which Stand has the ability to 'rewrite' reality?",
+      "choice_1": "Heaven's Door",
+      "choice_2": "King Crimson",
+      "choice_3": "Gold Experience Requiem",
+      "choice_4": "Made in Heaven",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Who delivers the famous 'seven-page Muda' beatdown?",
+      "choice_1": "Jotaro Kujo",
+      "choice_2": "Giorno Giovanna",
+      "choice_3": "Josuke Higashikata",
+      "choice_4": "Dio Brando",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which Stand can erase time?",
+      "choice_1": "The World",
+      "choice_2": "King Crimson",
+      "choice_3": "Star Platinum",
+      "choice_4": "Killer Queen",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who was responsible for killing Avdol in Part 3?",
+      "choice_1": "Vanilla Ice",
+      "choice_2": "Dio Brando",
+      "choice_3": "N'Doul",
+      "choice_4": "Oingo and Boingo",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which Stand belongs to Rohan Kishibe?",
+      "choice_1": "Echoes",
+      "choice_2": "Heaven's Door",
+      "choice_3": "Killer Queen",
+      "choice_4": "Harvest",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What phrase does Jotaro say before delivering a finishing blow?",
+      "choice_1": "Yare Yare Daze",
+      "choice_2": "MUDA MUDA MUDA!",
+      "choice_3": "ORA ORA ORA!",
+      "choice_4": "Oh my god!",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Which Stand has the ability to explode anything it touches?",
+      "choice_1": "Killer Queen",
+      "choice_2": "Crazy Diamond",
+      "choice_3": "Sticky Fingers",
+      "choice_4": "Purple Haze",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which JoJo character famously said 'I, <name>, have a dream' (この＜名前＞には夢がある。)?",
+      "choice_1": "Joseph Joestar",
+      "choice_2": "Jotaro Kujo",
+      "choice_3": "Josuke Higashikata",
+      "choice_4": "Giorno Giovanna",
+      "correct_choice": "choice_4"
+    },
+    {
+      "question": "Who is the main antagonist of Part 4: Diamond is Unbreakable?",
+      "choice_1": "Yoshikage Kira",
+      "choice_2": "Diavolo",
+      "choice_3": "Enrico Pucci",
+      "choice_4": "Vanilla Ice",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which Stand allows its user to steal people's memories and Stand abilities?",
+      "choice_1": "The World",
+      "choice_2": "White Snake",
+      "choice_3": "Stone Free",
+      "choice_4": "Tusk",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which Stand belongs to Weather Report?",
+      "choice_1": "Whitesnake",
+      "choice_2": "C-Moon",
+      "choice_3": "Weather Report",
+      "choice_4": "Burning Down the House",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What was the tragic fate of Jolyne Cujoh at the end of Part 6?",
+      "choice_1": "She was erased by Made in Heaven's reset",
+      "choice_2": "She was killed by Pucci's Whitesnake",
+      "choice_3": "She ascended to a higher plane of existence",
+      "choice_4": "She survived and led a new resistance",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the name of Diavolo's alter ego?",
+      "choice_1": "Vinegar Doppio",
+      "choice_2": "Risotto Nero",
+      "choice_3": "Ghiaccio",
+      "choice_4": "Pesci",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which Stand has the ability to reverse time for a few seconds?",
+      "choice_1": "Gold Experience Requiem",
+      "choice_2": "Bites the Dust",
+      "choice_3": "King Crimson",
+      "choice_4": "The Hand",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What does Jotaro write in his fight with D'Arby the Gambler to bluff his way to victory?",
+      "choice_1": "I know what you did",
+      "choice_2": "I, Jotaro Kujo, have already won",
+      "choice_3": "DIO is watching",
+      "choice_4": "Your Stand is weak",
+      "correct_choice": "choice_2"
+    }
+  ]
+  

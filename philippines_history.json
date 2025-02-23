@@ -1,0 +1,195 @@
+[
+    {
+      "question": "Who is known as the 'Father of the Philippine Revolution'?",
+      "choice_1": "José Rizal",
+      "choice_2": "Emilio Aguinaldo",
+      "choice_3": "Andrés Bonifacio",
+      "choice_4": "Antonio Luna",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What secret society did Andrés Bonifacio establish to fight for independence?",
+      "choice_1": "La Liga Filipina",
+      "choice_2": "Katipunan (K.K.K.)",
+      "choice_3": "Los Ilustrados",
+      "choice_4": "La Solidaridad",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What year was the Katipunan founded?",
+      "choice_1": "1868",
+      "choice_2": "1892",
+      "choice_3": "1896",
+      "choice_4": "1901",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which Filipino hero wrote 'Noli Me Tangere' and 'El Filibusterismo'?",
+      "choice_1": "José Rizal",
+      "choice_2": "Andrés Bonifacio",
+      "choice_3": "Emilio Aguinaldo",
+      "choice_4": "Marcelo H. del Pilar",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Where was José Rizal executed on December 30, 1896?",
+      "choice_1": "Intramuros",
+      "choice_2": "Luneta (Bagumbayan)",
+      "choice_3": "Fort Santiago",
+      "choice_4": "Cavite",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What event marked the start of the Philippine Revolution in 1896?",
+      "choice_1": "The Cry of Pugad Lawin",
+      "choice_2": "Battle of Manila",
+      "choice_3": "The Pact of Biak-na-Bato",
+      "choice_4": "The execution of José Rizal",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What was the main objective of the Propaganda Movement?",
+      "choice_1": "To wage war against Spain",
+      "choice_2": "To seek political reforms and representation",
+      "choice_3": "To establish a new government",
+      "choice_4": "To support the Spanish regime",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who was the first President of the First Philippine Republic?",
+      "choice_1": "José Rizal",
+      "choice_2": "Andrés Bonifacio",
+      "choice_3": "Emilio Aguinaldo",
+      "choice_4": "Antonio Luna",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Where was the first Philippine flag officially raised?",
+      "choice_1": "Manila",
+      "choice_2": "Cavite",
+      "choice_3": "Pampanga",
+      "choice_4": "Kawit",
+      "correct_choice": "choice_4"
+    },
+    {
+      "question": "What is the significance of the Pact of Biak-na-Bato?",
+      "choice_1": "It was a peace agreement between Filipino revolutionaries and Spain",
+      "choice_2": "It declared Philippine independence",
+      "choice_3": "It marked the beginning of the Philippine Revolution",
+      "choice_4": "It was the surrender of Emilio Aguinaldo to Spain",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What year did the Philippines declare independence from Spain?",
+      "choice_1": "1896",
+      "choice_2": "1898",
+      "choice_3": "1901",
+      "choice_4": "1946",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who composed the Philippine national anthem, 'Lupang Hinirang'?",
+      "choice_1": "José Palma",
+      "choice_2": "Julian Felipe",
+      "choice_3": "Marcelo H. del Pilar",
+      "choice_4": "Antonio Luna",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who was known as the 'Brains of the Revolution'?",
+      "choice_1": "José Rizal",
+      "choice_2": "Antonio Luna",
+      "choice_3": "Apolinario Mabini",
+      "choice_4": "Emilio Aguinaldo",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Who was the editor of the newspaper 'La Solidaridad'?",
+      "choice_1": "José Rizal",
+      "choice_2": "Marcelo H. del Pilar",
+      "choice_3": "Graciano López Jaena",
+      "choice_4": "Antonio Luna",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which battle was considered a major victory for Filipino forces against the Spaniards?",
+      "choice_1": "Battle of Manila Bay",
+      "choice_2": "Battle of Imus",
+      "choice_3": "Battle of Balangiga",
+      "choice_4": "Battle of Tirad Pass",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What was Emilio Jacinto's role in the Katipunan?",
+      "choice_1": "President",
+      "choice_2": "General",
+      "choice_3": "Secretary and strategist",
+      "choice_4": "Treasurer",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What was the real name of the Katipunan leader known as 'Gat Andres'?",
+      "choice_1": "José Rizal",
+      "choice_2": "Andrés Bonifacio",
+      "choice_3": "Antonio Luna",
+      "choice_4": "Emilio Jacinto",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Where did Emilio Aguinaldo go into exile after the Pact of Biak-na-Bato?",
+      "choice_1": "Hong Kong",
+      "choice_2": "Spain",
+      "choice_3": "Guam",
+      "choice_4": "United States",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What was the name of the first newspaper published by the Katipunan?",
+      "choice_1": "La Solidaridad",
+      "choice_2": "Kalayaan",
+      "choice_3": "Diario de Manila",
+      "choice_4": "El Filibusterismo",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who was the leader of the Spanish forces during the Philippine Revolution?",
+      "choice_1": "General Polavieja",
+      "choice_2": "General Aguinaldo",
+      "choice_3": "Governor-General Blanco",
+      "choice_4": "Captain General Burgos",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What was the primary weapon used by Katipuneros during battles?",
+      "choice_1": "Rifles",
+      "choice_2": "Bolos and machetes",
+      "choice_3": "Cannons",
+      "choice_4": "Crossbows",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who betrayed Andrés Bonifacio, leading to his execution?",
+      "choice_1": "Emilio Aguinaldo",
+      "choice_2": "José Rizal",
+      "choice_3": "Antonio Luna",
+      "choice_4": "Graciano López Jaena",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Where was the Malolos Congress held?",
+      "choice_1": "Cavite",
+      "choice_2": "Pampanga",
+      "choice_3": "Bulacan",
+      "choice_4": "Manila",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What was the name of the first constitution of the Philippines?",
+      "choice_1": "Malolos Constitution",
+      "choice_2": "Biak-na-Bato Constitution",
+      "choice_3": "1898 Declaration of Independence",
+      "choice_4": "Philippine Act of 1902",
+      "correct_choice": "choice_1"
+    }
+  ]
+  

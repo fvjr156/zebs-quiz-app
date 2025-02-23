@@ -1,0 +1,202 @@
+[
+    {
+      "question": "What is the onyomi reading of the kanji '水'?",
+      "choice_1": "みず",
+      "choice_2": "すい",
+      "choice_3": "かわ",
+      "choice_4": "うみ",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the kunyomi reading of the kanji '食'?",
+      "choice_1": "しょく",
+      "choice_2": "た",
+      "choice_3": "く",
+      "choice_4": "めし",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which kanji reading is used in the word '勉強' (べんきょう)?",
+      "choice_1": "Onyomi",
+      "choice_2": "Kunyomi",
+      "choice_3": "Both",
+      "choice_4": "Neither",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '学校'?",
+      "choice_1": "がっこう",
+      "choice_2": "かっこう",
+      "choice_3": "がくこう",
+      "choice_4": "かくこう",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which particle is used to indicate the subject of a sentence?",
+      "choice_1": "を",
+      "choice_2": "に",
+      "choice_3": "が",
+      "choice_4": "で",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What is the kunyomi reading of the kanji '山'?",
+      "choice_1": "さん",
+      "choice_2": "やま",
+      "choice_3": "せん",
+      "choice_4": "ざん",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the onyomi reading of the kanji '電'?",
+      "choice_1": "でん",
+      "choice_2": "かみなり",
+      "choice_3": "いなずま",
+      "choice_4": "ひかり",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which kanji reading is used in the word '山本' (やまもと)?",
+      "choice_1": "Onyomi",
+      "choice_2": "Kunyomi",
+      "choice_3": "Both",
+      "choice_4": "Neither",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the correct reading of the kanji '先生'?",
+      "choice_1": "せんせい",
+      "choice_2": "せんしょう",
+      "choice_3": "せんじょう",
+      "choice_4": "せんせん",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which particle is used to indicate the direct object of a verb?",
+      "choice_1": "を",
+      "choice_2": "に",
+      "choice_3": "が",
+      "choice_4": "で",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the kunyomi reading of the kanji '見'?",
+      "choice_1": "けん",
+      "choice_2": "み",
+      "choice_3": "し",
+      "choice_4": "かん",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the onyomi reading of the kanji '車'?",
+      "choice_1": "くるま",
+      "choice_2": "しゃ",
+      "choice_3": "じどう",
+      "choice_4": "ま",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which kanji reading is used in the word '自動車' (じどうしゃ)?",
+      "choice_1": "Onyomi",
+      "choice_2": "Kunyomi",
+      "choice_3": "Both",
+      "choice_4": "Neither",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '日本語'?",
+      "choice_1": "にほんご",
+      "choice_2": "にっぽんご",
+      "choice_3": "にほんばなし",
+      "choice_4": "にっぽんばなし",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which particle is used to indicate the location of an action?",
+      "choice_1": "を",
+      "choice_2": "に",
+      "choice_3": "が",
+      "choice_4": "で",
+      "correct_choice": "choice_4"
+    },
+    {
+      "question": "What is the kunyomi reading of the kanji '行'?",
+      "choice_1": "こう",
+      "choice_2": "い",
+      "choice_3": "ぎょう",
+      "choice_4": "おこな",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the onyomi reading of the kanji '会'?",
+      "choice_1": "かい",
+      "choice_2": "あ",
+      "choice_3": "え",
+      "choice_4": "う",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which kanji reading is used in the word '会議' (かいぎ)?",
+      "choice_1": "Onyomi",
+      "choice_2": "Kunyomi",
+      "choice_3": "Both",
+      "choice_4": "Neither",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '旅行'?",
+      "choice_1": "りょこう",
+      "choice_2": "たびこう",
+      "choice_3": "りょうこう",
+      "choice_4": "たびいき",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which particle is used to indicate the destination of movement?",
+      "choice_1": "を",
+      "choice_2": "に",
+      "choice_3": "が",
+      "choice_4": "で",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the kunyomi reading of the kanji '書'?",
+      "choice_1": "しょ",
+      "choice_2": "か",
+      "choice_3": "が",
+      "choice_4": "し",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What is the onyomi reading of the kanji '新'?",
+      "choice_1": "しん",
+      "choice_2": "あたら",
+      "choice_3": "にい",
+      "choice_4": "あら",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which kanji reading is used in the word '新聞' (しんぶん)?",
+      "choice_1": "Onyomi",
+      "choice_2": "Kunyomi",
+      "choice_3": "Both",
+      "choice_4": "Neither",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '映画'?",
+      "choice_1": "えいが",
+      "choice_2": "えいか",
+      "choice_3": "えが",
+      "choice_4": "えか",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Which particle is used to indicate the means or tool used to perform an action?",
+      "choice_1": "を",
+      "choice_2": "に",
+      "choice_3": "が",
+      "choice_4": "で",
+      "correct_choice": "choice_4"
+    }
+  ]

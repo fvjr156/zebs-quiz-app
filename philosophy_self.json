@@ -1,0 +1,171 @@
+[
+    {
+      "question": "According to Plato, what is the true nature of the self?",
+      "choice_1": "The self is a material body",
+      "choice_2": "The self is an immortal soul",
+      "choice_3": "The self is shaped by society",
+      "choice_4": "The self is just a collection of experiences",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which part of Plato’s tripartite soul is responsible for reason and wisdom?",
+      "choice_1": "The appetitive soul",
+      "choice_2": "The spirited soul",
+      "choice_3": "The rational soul",
+      "choice_4": "The mortal soul",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "For Aristotle, what is the self composed of?",
+      "choice_1": "Only the mind",
+      "choice_2": "The body and soul as a unified entity",
+      "choice_3": "Multiple selves competing within",
+      "choice_4": "An abstract concept with no real existence",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "How does Aristotle define the soul?",
+      "choice_1": "A non-material entity separate from the body",
+      "choice_2": "A collection of past experiences",
+      "choice_3": "The essence of a living thing",
+      "choice_4": "A temporary state of consciousness",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What did St. Augustine believe about the self?",
+      "choice_1": "It is purely physical",
+      "choice_2": "It is a soul striving to be united with God",
+      "choice_3": "It is shaped only by worldly experiences",
+      "choice_4": "It ceases to exist after death",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which philosopher famously said, 'Cogito, ergo sum'?",
+      "choice_1": "Plato",
+      "choice_2": "Aristotle",
+      "choice_3": "René Descartes",
+      "choice_4": "David Hume",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What does Descartes mean by 'Cogito, ergo sum'?",
+      "choice_1": "The existence of the self is based on thinking",
+      "choice_2": "Reality is purely an illusion",
+      "choice_3": "The self is a social construct",
+      "choice_4": "Perception is the only truth",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "How did Descartes define the self?",
+      "choice_1": "As an embodied experience",
+      "choice_2": "As a purely rational and thinking mind",
+      "choice_3": "As a material collection of cells",
+      "choice_4": "As a mix of perception and social identity",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "According to John Locke, what defines personal identity?",
+      "choice_1": "The soul",
+      "choice_2": "The physical body",
+      "choice_3": "The continuity of consciousness and memory",
+      "choice_4": "The presence of a rational mind",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Locke argued that if a person loses all their memories, what happens to their identity?",
+      "choice_1": "It remains the same",
+      "choice_2": "It changes because identity is based on memory",
+      "choice_3": "It is transferred to another person",
+      "choice_4": "It is linked to the soul, so it doesn’t change",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "What did David Hume believe about the self?",
+      "choice_1": "It is an illusion created by a bundle of perceptions",
+      "choice_2": "It is an immortal soul",
+      "choice_3": "It is a rational, thinking mind",
+      "choice_4": "It is shaped by society and tradition",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "Hume argued that we never experience the 'self' directly. What do we experience instead?",
+      "choice_1": "A deep, inner essence",
+      "choice_2": "A bundle of changing perceptions",
+      "choice_3": "A universal consciousness",
+      "choice_4": "A pre-existing identity given at birth",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Which philosopher rejected the idea of an immaterial self and viewed the mind as behavior?",
+      "choice_1": "Plato",
+      "choice_2": "John Locke",
+      "choice_3": "Gilbert Ryle",
+      "choice_4": "St. Augustine",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What did Gilbert Ryle mean by 'the ghost in the machine'?",
+      "choice_1": "The belief in a separate, non-physical mind is a mistake",
+      "choice_2": "The self exists in the afterlife",
+      "choice_3": "The mind controls the body like a machine",
+      "choice_4": "The brain is like a computer processing data",
+      "correct_choice": "choice_1"
+    },
+    {
+      "question": "According to Plato, which part of the soul is responsible for desires and appetites?",
+      "choice_1": "Rational soul",
+      "choice_2": "Spirited soul",
+      "choice_3": "Appetitive soul",
+      "choice_4": "Cognitive soul",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Aristotle believed that the soul...",
+      "choice_1": "Is separate from the body",
+      "choice_2": "Is an abstract entity that only philosophers can understand",
+      "choice_3": "Is the essence that makes a living thing what it is",
+      "choice_4": "Is an illusion created by the brain",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "Which philosopher believed that our knowledge and identity are shaped by experience?",
+      "choice_1": "René Descartes",
+      "choice_2": "John Locke",
+      "choice_3": "Plato",
+      "choice_4": "St. Augustine",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "For Hume, how does the self exist over time?",
+      "choice_1": "As a permanent entity",
+      "choice_2": "As a collection of ever-changing perceptions",
+      "choice_3": "As a logical necessity",
+      "choice_4": "As a divine gift",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Gilbert Ryle argued that the mind...",
+      "choice_1": "Is an illusion",
+      "choice_2": "Is just the body's behavior",
+      "choice_3": "Is superior to the body",
+      "choice_4": "Is a divine gift from God",
+      "correct_choice": "choice_2"
+    },
+    {
+      "question": "Who viewed the self as fundamentally a rational and thinking being?",
+      "choice_1": "John Locke",
+      "choice_2": "Plato",
+      "choice_3": "René Descartes",
+      "choice_4": "David Hume",
+      "correct_choice": "choice_3"
+    },
+    {
+      "question": "What did Plato believe was the highest form of knowledge?",
+      "choice_1": "Empirical observation",
+      "choice_2": "Philosophical reasoning",
+      "choice_3": "Divine revelation",
+      "choice_4": "Mathematical proofs",
+      "correct_choice": "choice_2"
+    }
+  ]
+  
