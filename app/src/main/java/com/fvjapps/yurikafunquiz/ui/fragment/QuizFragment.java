@@ -3,13 +3,8 @@ package com.fvjapps.yurikafunquiz.ui.fragment;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.core.content.ContextCompat;
-import androidx.fragment.app.Fragment;
-
 import android.util.DisplayMetrics;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,6 +12,11 @@ import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.content.ContextCompat;
+import androidx.fragment.app.Fragment;
 
 import com.fvjapps.yurikafunquiz.R;
 import com.fvjapps.yurikafunquiz.databinding.FragmentQuizBinding;
@@ -95,7 +95,7 @@ public class QuizFragment extends Fragment {
         String jsonData = SharedPreferencesHelper.getQuizData(context);
         quizItems = QuizReader.getItemsFromJSON(jsonData);
 
-        if(quizItems.isEmpty()) {
+        if (quizItems.isEmpty()) {
             Toast.makeText(context, "Invalid quiz data. Please reimport.", Toast.LENGTH_LONG).show();
         } else {
             displayQuestion();
@@ -132,22 +132,31 @@ public class QuizFragment extends Fragment {
         displayQuestion();
         changeAvatarImage();
     }
+
     private void changeAvatarImage() {
         int imageChangeInterval = quizItems.size() / (images.length - 1);
-        Drawable avatarImage;
+        int imageIndex;
+
         if (score == quizItems.size()) {
-            avatarImage = images[5];
-        } else if (score >= 4 * imageChangeInterval && score < 5 * imageChangeInterval) {
-            avatarImage = images[4];
+            imageIndex = 5;
+        } else if (score >= 4 * imageChangeInterval && score <= 5 * imageChangeInterval) {
+            imageIndex = 4;
         } else if (score >= 3 * imageChangeInterval && score < 4 * imageChangeInterval) {
-            avatarImage = images[3];
+            imageIndex = 3;
         } else if (score >= 2 * imageChangeInterval && score < 3 * imageChangeInterval) {
-            avatarImage = images[2];
+            imageIndex = 2;
         } else if (score >= imageChangeInterval && score < 2 * imageChangeInterval) {
-            avatarImage = images[1];
+            imageIndex = 1;
         } else {
-            avatarImage = images[0];
+            imageIndex = 0;
         }
+
+        Log.d("QuizDebug", String.format(
+                "quizItems.size() = %d, \nscore = %d, \ncurrentIndex = %d, \nimageIndex = %d",
+                quizItems.size(), score, currentIndex, imageIndex
+        ));
+
+        Drawable avatarImage = images[imageIndex];
         binding.fragmentQuizAvatar.setImageDrawable(avatarImage);
     }
 

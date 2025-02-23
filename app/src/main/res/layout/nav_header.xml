@@ -14,9 +14,9 @@
         android:layout_width="72dp"
         android:layout_height="72dp"
         android:layout_gravity="start"
-        android:src="@drawable/ic_launcher_foreground"
+        android:src="@mipmap/ic_launcher"
+        android:background="@drawable/dialog_choice_button"
         android:scaleType="centerCrop"
-        android:background="@drawable/ic_launcher_background"
         android:padding="2dp"
         />
 
