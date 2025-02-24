@@ -24,6 +24,7 @@ import com.fvjapps.yurikafunquiz.model.QuizItem;
 import com.fvjapps.yurikafunquiz.model.QuizReader;
 import com.fvjapps.yurikafunquiz.model.SharedPreferencesHelper;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class QuizFragment extends Fragment {
@@ -35,6 +36,7 @@ public class QuizFragment extends Fragment {
     private List<QuizItem> quizItems;
     private Drawable[] images;
     private boolean dialogBoxHidden;
+    private boolean scoreBoxHidden;
 
     @Nullable
     @Override
@@ -55,7 +57,14 @@ public class QuizFragment extends Fragment {
         binding.fragmentQuizDialogBox.getLayoutParams().width = metrics.widthPixels - 20;
 
         binding.fragmentQuizDialogBoxToggleBtn.setOnClickListener(v -> {
-            dialogBoxHidden = !dialogBoxHidden;
+            if (currentIndex < quizItems.size()) {
+                dialogBoxHidden = !dialogBoxHidden;
+                scoreBoxHidden = true;
+            } else {
+                scoreBoxHidden = !scoreBoxHidden;
+                dialogBoxHidden = true;
+            }
+            binding.fragmentQuizScoreBox.setVisibility((scoreBoxHidden) ? View.GONE : View.VISIBLE);
             binding.fragmentQuizDialogBox.setVisibility((dialogBoxHidden) ? View.GONE : View.VISIBLE);
         });
 
@@ -78,6 +87,10 @@ public class QuizFragment extends Fragment {
 
         binding.fragmentQuizIntroStartBtn.setOnClickListener(v -> {
             initStartQuiz();
+            List<String> answerKey = new ArrayList<>();
+            for(QuizItem q : quizItems) {
+                Log.d("AnswerKey", q.getCorrectChoice());
+            }
         });
 
         return binding.getRoot();
@@ -116,7 +129,7 @@ public class QuizFragment extends Fragment {
             choice3.setOnClickListener(v -> checkAnswer("choice_3"));
             choice4.setOnClickListener(v -> checkAnswer("choice_4"));
         } else {
-            binding.fragmentQuizDialogBoxToggleBtn.setVisibility(View.GONE);
+            scoreBoxHidden = false;
             binding.fragmentQuizDialogBox.setVisibility(View.GONE);
             binding.fragmentQuizScoreBox.setVisibility(View.VISIBLE);
             binding.fragmentQuizScoreBoxScore.setText(String.format("You got: %d/%d", score, quizItems.size()));
